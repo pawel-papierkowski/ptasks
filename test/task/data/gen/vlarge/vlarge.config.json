@@ -1,0 +1,9 @@
+{
+  "directory": "../task/data/gen/",
+  "fileName": "vlarge",
+  "totalColumns": 49,
+  "totalRows": 2150000,
+  "searchCriteriaCount": 10,
+  "matchChance": 0.01,
+  "maxInteger": 10000
+}

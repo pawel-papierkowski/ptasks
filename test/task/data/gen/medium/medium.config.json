@@ -1,0 +1,9 @@
+{
+  "directory": "../task/data/gen/",
+  "fileName": "medium",
+  "totalColumns": 9,
+  "totalRows": 10000,
+  "searchCriteriaCount": 4,
+  "matchChance": 0.05,
+  "maxInteger": 1000000
+}

@@ -1,0 +1,9 @@
+{
+  "directory": "../task/data/gen/",
+  "fileName": "tall",
+  "totalColumns": 4,
+  "totalRows": 50000000,
+  "searchCriteriaCount": 10,
+  "matchChance": 0.01,
+  "maxInteger": 10
+}

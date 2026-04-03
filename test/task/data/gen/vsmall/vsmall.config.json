@@ -1,0 +1,9 @@
+{
+  "directory": "../task/data/gen/",
+  "fileName": "vsmall",
+  "totalColumns": 3,
+  "totalRows": 10,
+  "searchCriteriaCount": 3,
+  "matchChance": 0.5,
+  "maxInteger": 1000000
+}

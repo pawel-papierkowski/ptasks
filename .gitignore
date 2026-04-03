@@ -1,0 +1,6 @@
+node_modules/
+test/task/data/examples/ex2/ex2.csv
+test/task/data/gen/large/large.csv
+test/task/data/gen/vlarge/vlarge.csv
+test/task/data/gen/wide/wide.csv
+test/task/data/gen/tall/tall.csv

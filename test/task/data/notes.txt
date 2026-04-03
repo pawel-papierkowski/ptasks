@@ -1,0 +1,7 @@
+ex2: 1.87s
+medium: 0.33s
+large: 0.93s
+vlarge: 2.68s
+wide: 1.7s
+tall: 13.68s
+finder: 8.66s
