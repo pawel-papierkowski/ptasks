@@ -1,0 +1,9 @@
+{
+  "directory": "../task/data/gen/",
+  "fileName": "finder",
+  "totalColumns": 10,
+  "totalRows": 1000000,
+  "searchCriteriaCount": 1000,
+  "matchChance": 0.05,
+  "maxInteger": 1000
+}
