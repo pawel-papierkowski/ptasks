@@ -10,6 +10,12 @@ Assumptions:
 - Use only stdlib functions.
 - CommonJS (so no ES6 Modules)
 
+## Basic info
+
+Author: Paweł Papierkowski
+
+Date: April 2026
+
 ## Task 1
 Finds first match based on search criteria and provided data.
 Assumptions for `data` (from task description):
