@@ -1,4 +1,5 @@
 # Tasks
+Pure JavaScript project showing off handling and processing of large csv files.
 
 Purpose of task.js is to execute two tasks.
 
